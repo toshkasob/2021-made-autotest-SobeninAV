@@ -1,4 +1,5 @@
 import pytest
+import math
 
 
 def test_equal():
