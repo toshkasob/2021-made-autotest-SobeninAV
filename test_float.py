@@ -1,5 +1,6 @@
 import pytest
 import math
+import fpectl
 
 
 def test_equal():
